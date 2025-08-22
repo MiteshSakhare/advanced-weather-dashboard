@@ -25,6 +25,6 @@ A Flask-based weather dashboard with geolocation, temperature unit toggle, air q
 <img width="1600" height="836" alt="image" src="https://github.com/user-attachments/assets/526c5b15-a4ae-4683-8400-d4b8158942cd" />
 
 
-## License
+License
 
-MIT
+This project is open-source and distributed under the MIT License.
